@@ -6,6 +6,7 @@ printf("hello codder\n");
 printf("start your first code\n");
 printf("this is a printf fuction use for show somthing");
 printf("I am starting code");
+printf("what's up!!");
 
 
     return 0;
