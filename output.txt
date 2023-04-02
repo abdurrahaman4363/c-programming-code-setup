@@ -1,2 +1,4 @@
 hello world 
 hello codder
+start your first code
+this is a printf fuction use for show somthing
